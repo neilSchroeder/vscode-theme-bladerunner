@@ -3,6 +3,10 @@
 
 This theme has that 80s sci-fi dystopian neon vibe and is inspired by the imagery in Bladerunner of Los Angeles in the year 2019.
 
+## Installation
+
+clone the repository someplace you like, then copy it into your .vscode/extensions/ folder
+
 ## Current tunes
 
 ### Python3
