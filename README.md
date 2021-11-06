@@ -14,7 +14,7 @@ The current tune works well for python3 and has the following features:
 * member variables have a different color than member functions
 * keyword flow (for, if, else, in, etc.) are bold
 
-<img src='examples/bladerunner-python.png' width="400" height="200">
+<img src='examples/bladerunner-python.png' width="600" height="300">
 
 ## To Do
 
