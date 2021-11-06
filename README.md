@@ -12,6 +12,9 @@ The current tune works well for python3 and has the following features:
 * Minimal italics, except for in-line comments
 * parameter names in function calls are bold
 * member variables have a different color than member functions
+* keyword flow (for, if, else, in, etc.) are bold
+
+<img src='example/bladerunner-python.jpg'>
 
 ## To Do
 
