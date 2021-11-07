@@ -18,11 +18,13 @@ The current tune works well for python3 and has the following features:
 * member variables have a different color than member functions
 * keyword flow (for, if, else, in, etc.) are bold
 
+Here you can see how the theme looks when building a class in the first figure, and when writing a script in the second figure.
 <p float="left">
-<img style='height: 100%; width: 100%; object-fit: contain'/>
+<img style='height: 50%; width: 50%; object-fit: contain'/>
 <img src='examples/bladerunner-python.png'>
 <img src='examples/bladerunner-python-script.png'>
 </p>
+
 ## To Do
 
 My to do list for tunes of this theme
