@@ -335,7 +335,7 @@
 	  },
 	  {
 		"name": "js variable readwrite",
-		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+		"scope": "variable.other.readwrite,source.python,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
 		  "foreground": "#74ccc4"
 		}
@@ -468,7 +468,7 @@
 	  },
 	  {
 		"name": "python property",
-		"scope": "meta.attribute.python,meta.member.access.python,source.python,variable.other.property",
+		"scope": "meta.attribute.python,meta.member.access.python,variable.other.property",
 		"settings":{
 		  "foreground": "#747acc",
 		  "fontStyle": ""
