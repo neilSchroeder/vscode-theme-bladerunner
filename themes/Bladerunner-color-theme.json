@@ -1,6 +1,6 @@
 {
 	"name": "Bladerunner",
-	"type": "dark",
+    "type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
