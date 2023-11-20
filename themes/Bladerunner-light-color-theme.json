@@ -53,7 +53,7 @@
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#00fffb"
+        "foreground": "#532c7b"
       }
     },
     {
@@ -109,7 +109,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#5e9b32"
+        "foreground": "#59803d"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "java modifier.import",
       "scope": "meta.method.java",
       "settings": {
-        "foreground": "#007be0"
+        "foreground": "#532c7b"
       }
     },
     {
@@ -666,7 +666,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#007be0"
+        "foreground": "#532c7b"
       }
     },
     {
@@ -698,10 +698,10 @@
       }
     },
     {
-      "name": "Support",
+      "name": "Support (python functions like __init__)",
       "scope": "support.function",
       "settings": {
-        "foreground": "#00abff"
+        "foreground": "#532c7b"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#5e9b32"
+        "foreground": "#59803d"
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "meta.method.groovy"
       ],
       "settings": {
-        "foreground": "#007be0"
+        "foreground": "#532c7b"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#bababa"
+        "foreground": "#59803d"
       }
     },
     {
