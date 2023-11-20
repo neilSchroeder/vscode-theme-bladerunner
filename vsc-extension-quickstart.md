@@ -5,6 +5,7 @@
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
 * `themes/Bladerunner-color-theme.json` - the color theme definition file.
+* `themes/Bladerunner-light-color-theme.json` - the light color theme definition file.
 
 ## Get up and running straight away
 
