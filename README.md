@@ -21,6 +21,7 @@ The current tune works well for python3 and has the following features:
 Classes | Scripts
 :------:|:------:
 ![](https://github.com/neilSchroeder/vscode-theme-bladerunner/blob/master/examples/bladerunner-python.png) | ![](https://github.com/neilSchroeder/vscode-theme-bladerunner/blob/master/examples/bladerunner-python-script.png)
+![](https://github.com/neilSchroeder/vscode-theme-bladerunner/blob/master/examples/bladerunner-light-python-class.png) | ![](https://github.com/neilSchroeder/vscode-theme-bladerunner/blob/master/examples/bladerunner-light-python-script.png)
 
 ## To Do
 
