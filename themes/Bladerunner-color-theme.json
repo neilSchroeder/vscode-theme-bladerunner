@@ -1,18 +1,26 @@
 {
 	"name": "Bladerunner",
-	"type": "dark",
-	"semanticHighlighting": true,
-	"semanticTokenColors": {
-		"enumMember": {
-			"foreground": "#8b00ff"
-		},
-		"variable.constant": {
-			"foreground": "#d19d66"
-		},
-		"variable.defaultLibrary": {
-			"foreground": "#9a9bff"
-		}
-	},
+    "type": "dark",
+    "semanticTokenColors": {
+        "enumMember": {
+            "foreground": "#8b00ff"
+        },
+        "variable.constant": {
+            "foreground": "#d19d66"
+        },
+        "variable.defaultLibrary": {
+            "foreground": "#9a9bff"
+        },
+        "property.declaration": {
+            "foreground": "#747acc"
+        },
+        "property": {
+            "foreground": "#ff6b6b"
+        },
+        "property.readonly": {
+            "foreground": "#4ecdc4"
+        }
+    },
 	"tokenColors": [
 		{
 			"name": "unison punctuation",
@@ -472,7 +480,27 @@
 			"scope": "meta.attribute.python,meta.member.access.python,variable.other.property",
 			"settings": {
 				"foreground": "#747acc",
-				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Python predefined attributes",
+			"scope": "variable.other.property.python",
+			"settings": {
+				"foreground": "#747acc"
+			}
+		},
+		{
+			"name": "Python dynamic attributes", 
+			"scope": "variable.other.object.property.python",
+			"settings": {
+				"foreground": "#ff6b6b"
+			}
+		},
+		{
+			"name": "Python instance attributes",
+			"scope": "meta.member.access.python variable.other.property",
+			"settings": {
+				"foreground": "#4ecdc4"
 			}
 		},
 		{
