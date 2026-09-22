@@ -4,6 +4,11 @@ All notable changes to the "dark" and "light" extensions will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [Version 0.3.2]
+
+- Improved light and dark theme contrast for Copilot Chat, editor, gutter, and terminal surfaces.
+- Added dedicated Copilot Chat request and input colors.
+
 ## [Version 0.3.1]
 
 - bug fix

@@ -2,7 +2,7 @@
     "name": "vscode-theme-bladerunner",
     "displayName": "Bladerunner Neon Theme",
     "description": "A theme with that 80s sci-fi dystopian neon vibe",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "publisher": "neilschroeder",
     "engines": {
         "vscode": "^1.62.0"
